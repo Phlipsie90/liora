@@ -1,0 +1,6 @@
+transformers
+torch
+firebase-admin
+requests
+openai
+huggingface_hub
