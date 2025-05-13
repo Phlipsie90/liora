@@ -1,6 +1,13 @@
 transformers
 torch
+accelerate
 firebase-admin
-requests
-openai
 huggingface_hub
+deep-translator==1.11.4
+openai
+tiktoken
+langdetect
+gTTS
+SpeechRecognition
+flask
+gradio==3.41.2
